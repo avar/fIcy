@@ -13,6 +13,8 @@ using std::string;
 using std::map;
 
 // system headers
+#include <cstdio>
+
 #include <memory>
 using std::auto_ptr;
 
